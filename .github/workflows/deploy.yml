@@ -4,7 +4,7 @@
 # a commit is pushed to the main branch.
 #
 # Live URL after first deploy:
-#   https://TanQHoang.github.io/product-sales-analytics/
+#   https://tanhoang0803.github.io/product-sales-analytics/
 
 name: Deploy to GitHub Pages
 
