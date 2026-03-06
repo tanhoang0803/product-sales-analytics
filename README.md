@@ -3,6 +3,9 @@
 > A professional data analytics web application built for a **Data Analyst portfolio**.
 > Demonstrates financial calculations, interactive visualisations, and clean data UX.
 
+**Live URL:** https://tanhoang0803.github.io/product-sales-analytics/
+**GitHub repo:** https://github.com/tanhoang0803/product-sales-analytics
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Recharts](https://img.shields.io/badge/Recharts-2.10-8884d8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)
@@ -116,3 +119,9 @@ npm run preview   # preview the production build locally
 ---
 
 *Built as a portfolio project to demonstrate data-driven application development.*
+
+---
+
+## Project Reference
+
+This project was built as part of the [roadmap.sh Portfolio Website](https://roadmap.sh/projects/portfolio-website) project challenge.
